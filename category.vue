@@ -93,7 +93,7 @@
             data: res.sMoneyList,
           }]
         });
-
+// 123
         window.addEventListener("resize", () => myChart.resize(), false)
       },
       timeEffectOfDepart() {
